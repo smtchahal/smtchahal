@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hey, I’m Sumit
+
+I’m a **Senior Software Engineer** who enjoys building reliable backend systems and automating everything possible. My work often involves turning complex infrastructure or tooling problems into maintainable, well-documented solutions.
+
+### 🧩 What I do
+- **Backend engineering** — PHP, Node.js, TypeScript, Python, RabbitMQ
+- **DevOps & automation** — Docker, Nginx, CI/CD, shell scripting  
+- **Frontend (when needed)** — Next.js + Tailwind, focused on DX and maintainability  
+- **System design** — scalable APIs, async processing, observability  
+
+### ⚙️ Tech I'm comfortable with
+`PHP` · `TypeScript` · `Node.js` · `React` · `MySQL` · `RabbitMQ` · `Playwright` · `Docker` · `Nginx` · `Redis` · `GitHub Actions` · `Linux`  
+
+### 🧠 How I think
+I prefer explicit, predictable systems and clean abstractions over clever code.  
+Performance, observability, and automation are not afterthoughts — they’re part of the design.
 
 <!--
-**smtchahal/smtchahal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🪶 Occasionally, I write about
+- Practical system design decisions  
+- Debugging production issues efficiently  
+- Subtle behavior in tooling (Composer, Bash, Playwright, etc.)
 -->
+
+---
+
+> “Good engineering is invisible when done right.”
