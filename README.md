@@ -4,12 +4,12 @@ I’m a **Senior Software Engineer** who enjoys building reliable backend system
 
 ### 🧩 What I do
 - **Backend engineering** — PHP, Node.js, TypeScript, Python, RabbitMQ
-- **DevOps & automation** — Docker, Nginx, CI/CD, shell scripting  
+- **DevOps & automation** — Docker, Nginx, CI/CD, shell scripting, Puppeteer, Playwright  
 - **Frontend (when needed)** — Next.js + Tailwind, focused on DX and maintainability  
 - **System design** — scalable APIs, async processing, observability  
 
 ### ⚙️ Tech I'm comfortable with
-`PHP` · `TypeScript` · `Node.js` · `React` · `MySQL` · `RabbitMQ` · `Playwright` · `Docker` · `Nginx` · `Redis` · `GitHub Actions` · `Linux`  
+`PHP` · `TypeScript` · `Node.js` · `React` · `MySQL` · `RabbitMQ` · `Puppeteer` · `Playwright` · `Docker` · `Nginx` · `Redis` · `GitHub Actions` · `Linux`  
 
 ### 🧠 How I think
 I prefer explicit, predictable systems and clean abstractions over clever code.  
