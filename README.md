@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Sumit
 
-I’m a **Senior Software Engineer** who enjoys building reliable backend systems and automating everything possible. My work often involves turning complex infrastructure or tooling problems into maintainable, well-documented solutions.
+I’m a **Senior Software Engineer** who enjoys building reliable backend systems and automating everything possible. My work often involves turning complex infrastructure or tooling problems into maintainable, self-documenting solutions.
 
 ### 🧩 What I do
 - **Backend engineering** — PHP, Node.js, TypeScript, Python, RabbitMQ
