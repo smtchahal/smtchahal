@@ -9,7 +9,7 @@ I’m a **Senior Software Engineer** who enjoys building reliable backend system
 - **System design** — scalable APIs, async processing, observability  
 
 ### ⚙️ Tech I'm comfortable with
-`PHP` · `TypeScript` · `Node.js` · `React` · `MySQL` · `RabbitMQ` · `Puppeteer` · `Playwright` · `Docker` · `Nginx` · `Redis` · `GitHub Actions` · `Linux`  
+`TypeScript` · `Go` · `Node.js` · `React` · `MySQL` · `PHP` · `RabbitMQ` · `Puppeteer` · `Playwright` · `Docker` · `Nginx` · `Redis` · `GitHub Actions` · `Linux`  
 
 ### 🧠 How I think
 I prefer explicit, predictable systems and clean abstractions over clever code.  
