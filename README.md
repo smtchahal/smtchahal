@@ -1,4 +1,4 @@
-Senior Full-stack Engineer based in Gurgaon, India. 8 years of experience, mostly backend: APIs, async processing, and the infrastructure and tooling around them.
+Senior Full-stack Engineer based in Gurgaon, India. 8+ years of experience, mostly backend: APIs, async processing, and the infrastructure and tooling around them.
 
 ## Stack
 
