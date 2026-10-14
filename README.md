@@ -1,27 +1,17 @@
-# 👋 Hey, I’m Sumit
+Senior Full-stack Engineer based in Gurgaon, India. 8 years of experience, mostly backend: APIs, async processing, and the infrastructure and tooling around them.
 
-I’m a **Senior Software Engineer** who enjoys building reliable backend systems and automating everything possible. My work often involves turning complex infrastructure or tooling problems into maintainable, self-documenting solutions.
+## Stack
 
-### 🧩 What I do
-- **Backend engineering** — PHP, Node.js, TypeScript, Python, RabbitMQ
-- **DevOps & automation** — Docker, Nginx, CI/CD, shell scripting, Puppeteer, Playwright  
-- **Frontend (when needed)** — Next.js + Tailwind, focused on DX and maintainability  
-- **System design** — scalable APIs, async processing, observability  
+- **Languages:** TypeScript, JavaScript, Node.js, Python
+- **Frontend:** React, Next.js, Tailwind
+- **Data and messaging:** MySQL, PostgreSQL, Redis, RabbitMQ, NATS
+- **Infrastructure:** Docker, Nginx, GitHub Actions, Linux
+- **Automation and testing:** Playwright, Puppeteer, shell scripting
 
-### ⚙️ Tech I'm comfortable with
-`TypeScript` · `Go` · `Node.js` · `React` · `MySQL` · `PHP` · `RabbitMQ` · `Puppeteer` · `Playwright` · `Docker` · `Nginx` · `Redis` · `GitHub Actions` · `Linux`  
+## Approach
 
-### 🧠 How I think
-I prefer explicit, predictable systems and clean abstractions over clever code.  
-Performance, observability, and automation are not afterthoughts — they’re part of the design.
+I prefer explicit, predictable systems over clever ones, and I treat performance, observability and automation as part of the design.
 
-<!--
-### 🪶 Occasionally, I write about
-- Practical system design decisions  
-- Debugging production issues efficiently  
-- Subtle behavior in tooling (Composer, Bash, Playwright, etc.)
--->
+## Links
 
----
-
-> “Good engineering is invisible when done right.”
+[Website](https://sumitchahal.com/) · [LinkedIn](https://www.linkedin.com/in/sumitchahal/)
